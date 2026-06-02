@@ -40,8 +40,6 @@ DB_USER - имя пользователя в БД, DB_PASS - пароль для
 `cp .env.example .env`
 `docker-compose up -d`
 
-Приложение доступно на http://localhost:8081.
-
 ## Тестирование
 
 `./mvnw test`
